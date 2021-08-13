@@ -1,0 +1,23 @@
+{
+  "name": "des-games",
+  "version": "1.0.0",
+  "description": "Powerful game addon for Discord Economy Super",
+  "main": "index.js",
+  "dependencies": {
+    "discord-economy-super": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyligan-gp/des-games.git"
+  },
+  "author": "xyligan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xyligan-gp/des-games/issues"
+  },
+  "homepage": "https://github.com/xyligan-gp/des-games#readme",
+  "types": "./typings/EconomyGames.d.ts"
+}
